@@ -4,7 +4,7 @@
 ## Description
 Basic Webpage listing what I will learn at Epicodus. It also links to the page my favorite things
 ## Setup/Installation Requirements
-* _Require web browser of your choosing_
+* Require web browser of your choosing
 ## Known Bugs
 Currently bug free
 ## Support and contact details
